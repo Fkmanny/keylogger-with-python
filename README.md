@@ -1,4 +1,4 @@
-# Project: Educational Keylogger Implementation Series
+# Project: Keylogger Implementation Series (Python)
 
 ## Overview
 This project demonstrates the evolution of keylogger implementations for educational purposes, ranging from basic keystroke capture to advanced stealth techniques with multiple exfiltration methods. The series showcases progressive cybersecurity concepts through three distinct versions, each building upon the previous implementation.
