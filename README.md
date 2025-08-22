@@ -10,6 +10,9 @@ This software is intended for educational purposes only. The developer assumes n
 
 Only use these tools on systems you own or have explicit written permission to test. Unauthorized use of keyloggers may violate privacy laws and can lead to severe legal consequences.
 
+## Use Case Scenario 
+A corporate security team uses these keylogger variants in controlled red team exercises to test endpoint detection and response (EDR) systems, ensuring they can detect and block such threats before malicious actors can exploit them.
+
 ## Keylogger Versions
 - Keylogger 1.0: Basic keystroke capture, file logging, minimal error handling, and basic file management
 - Keylogger 2.0: Enhanced version with timestamp functionality, improved special key handling, and graceful exit mechanism
